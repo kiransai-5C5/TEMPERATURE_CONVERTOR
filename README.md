@@ -15,10 +15,7 @@ This is a simple **Temperature Converter** built using HTML, CSS, and JavaScript
 - JavaScript  
 
 ## How to Run  
-Clone this repository:  
-```bash
-git clone https://github.com/yourusername/TEMPERATURE_CONVERTOR.git
-```
+Your site is live at https://kiransai-5c5.github.io/TEMPERATURE_CONVERTOR/
 
 Open the `index.html` file in your browser to use the Temperature Converter.
 
